@@ -32,8 +32,13 @@ To run this project, you need to have Python and the following libraries install
 You can install these libraries using `pip`:
 ```bash
 pip install pandas numpy matplotlib
+```
 
+### Results
+The analysis provides insights into customer behavior, sales trends, and product performance. Key findings include:
+1. The top 5 countries by the number of customers.
+2. Monthly sales distribution.
+3. Top 10 customers with the most transactions.
 
-## Conclusion
+### Conclusion
 This project demonstrates how to analyze an online retail store's dataset using Python. The insights gained can help the store improve its sales strategies and customer engagement.
-
